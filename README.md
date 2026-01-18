@@ -6,8 +6,8 @@ This project is an interactive data visualization dashboard built using **Stream
 The dashboard is designed for executives and operations managers to get a "360-degree view" of the bike-sharing business at a glance.
 
 ## 🚀 Live Demo
-**[Click here to view the Dashboard]**(https://data-visualization-2nd-sem-msc-data-science-57efegviwrducqswq2.streamlit.app/)
-*(Replace the link above once you deploy your app on Streamlit Cloud)*
+https://data-visualization-2nd-sem-msc-data-science-57efegviwrducqswq2.streamlit.app/
+
 
 ## 📊 Key Features
 The dashboard is organized into **4 Strategic Tabs**:
